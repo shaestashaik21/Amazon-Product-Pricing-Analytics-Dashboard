@@ -159,12 +159,11 @@ This dashboard enables stakeholders to:
 
 ## 👤 Author
 
-**shagufta**
+**shaik shaesta**
 
 Aspiring Data Analyst
 
-* 📧 shagufta6023@gmail.com
-
+* 📧 shaestashaik15@gmail.com
 **Skills:** Excel | SQL | Python | Data Visualization
 
 ---
